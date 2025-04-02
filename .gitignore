@@ -1,0 +1,13 @@
+# ignore env file
+.env
+
+#ignore folder and its content
+folder-name/
+css/
+
+#ignore a particular file
+contact.html
+
+#ignore files with a particular extention
+.txt
+
